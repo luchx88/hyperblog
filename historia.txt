@@ -7,7 +7,3 @@ Primero comence con la escuela de JavaScript, pero me di cuenta
 de que era mas para backend que para frontend.
 
 Por lo que decidi cambiar de escuela y ahora estoy en Desarrollo Web
-
-Ahora estoy practicando con Git con sus distintos comandos
-
-Mas que nada tengo que ver el tema de checkout y de reset
